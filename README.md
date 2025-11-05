@@ -49,9 +49,3 @@
 
 ## 重要声明
 - 本服务与 **Anthropic** 无任何从属或关联关系，系第三方社区平台。
-
-## SEO 提示（可选）
-**建议在仓库设置 → Topics 添加：** `claude` `claude-code` `ai-coding` `developer-tools` `carpooling` `subscription-sharing` `拼车` `AI编程`  
-**README 关键词示例（自然融入文案）：** Claude Code 拼车、AI 编程、企业级安全、开发者工具、自动拼车服务、团队协作、独立密钥
-
----
