@@ -3,7 +3,7 @@
 # Easy Claude Code（开发者拼车）
 
 [![Website](https://img.shields.io/badge/Website-easyclaude.com-blue?style=flat-square)](https://easyclaude.com)
-[![Store](https://img.shields.io/badge/Store-v2code.ai-lightgrey?style=flat-square)](https://www.v2code.ai)
+[![Store](https://img.shields.io/badge/Store-v2code.ai-lightgrey?style=flat-square)](https://www.v2code.ai/store)
 [![Support](https://img.shields.io/badge/Support-24%2F7-success?style=flat-square)](#联系我们)
 [![Security](https://img.shields.io/badge/Security-Enterprise--grade-informational?style=flat-square)](#安全与可靠性)
 
@@ -80,6 +80,6 @@
 
 ## 我们的链接与联系
 - 官网: https://easyclaude.com  
-- 商城: https://www.v2code.ai  
+- 商城: https://www.v2code.ai/store  
 - 微信: cherrymm02  
 - 法律声明: 与 Anthropic 无隶属关系，独立第三方社区平台
